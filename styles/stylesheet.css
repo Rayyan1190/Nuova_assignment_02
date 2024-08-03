@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.maincontainer{
+    width:100%;
+    height: 100vh;
+    background-color:#F8F9FD ;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.loginhead
+{
+    font-size: 25px;
+    margin-top: 30px;
+    font-weight: 800;
+}
+
+form{
+    height: 450px;
+    width: 450px;
+    background-color: #FFFFFF;
+    margin-top: 70px;
+box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+
+display: flex;
+    justify-content: center;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 7px;
+    
+}
+/* .inputt
+{
+   
+    display: flex;
+    justify-content: center;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+  
+} */
+.quess
+{
+    font-size: 24px;
+    color: purple;
+    margin-top: 10px;
+}
+form img
+{
+    padding-top: 50px;
+    width: 70px;
+    height: 70px;
+}
+
+ .user
+{
+    width: 320px;
+    height: 50px;
+    
+    background-color: #F2F2F2;
+    border: none;
+    border: 0px;
+    
+    padding-left: 50px;
+    margin-top: 30px;
+    border-radius: 7px;
+}
+
+.passw
+{
+    width: 320px;
+    height: 50px;
+    
+    background-color: #F2F2F2;
+    border: none;
+    border: 0px;
+  
+    padding-left: 50px;
+    margin-top: 15px;   
+    border-radius: 7px;
+}
+.inline1
+{
+    display: flex;
+    margin-top: 25px;
+
+
+}
+.forget
+{
+    margin-left: 154px;
+    color: purple;
+}
+
+.inline{
+margin-left: 5px;
+color: purple;
+}
+
+.submitt
+{
+    width: 320px;
+    height: 50px;
+
+    color: #FFFFFF;
+    background-color: #8D448B;
+    border: none;
+   margin-top: 423px;
+  
+   position: absolute;
+
+    border-radius: 7px;
+    
+}
